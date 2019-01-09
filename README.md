@@ -1,5 +1,5 @@
 # DataPreliminaryTest
-Data Preliminary Test at Kulina
+Data Preliminary Test
 
 1. Clone repository
 # git clone https://github.com/dimassantoso/DataPreliminaryTest.git
